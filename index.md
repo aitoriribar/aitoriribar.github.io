@@ -1,7 +1,7 @@
-This is your home page! Write whatever comes to mind.
+This is my math blog (I am still waiting for a better name), where i will write whatever comes to my mind.
 
-Maybe an about me section, or a short bio.
+I am currently a PhD student in ETH Zurich in algebraic geometry and the geometry of moduli spaces.
 
-Or maybe you can write a small summary about your blog.
+My interests lie between homological algebra, differential, complex an algebraic geometry.
 
-Whatever you want!
+I hope you enjoy it!!
